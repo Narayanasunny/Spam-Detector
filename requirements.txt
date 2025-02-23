@@ -1,0 +1,5 @@
+streamlit
+pandas
+speechrecognition
+deep-translator
+fpdf
