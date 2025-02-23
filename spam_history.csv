@@ -1,0 +1,39 @@
+Message,Classification
+free lottery ,Spam
+hello dear,Safe
+"""Earn $1000 a day working from home! Click here for details.""",Spam
+"""¡Gane $1000 al día trabajando desde casa! Haga clic aquí para obtener detalles.""",Safe
+¡Gane $1000 al día trabajando desde casa! Haga clic aquí para obtener detalles.,Safe
+"""Earn $1000 a day working from home! Click here for details.""",Spam
+"""Earn $1000 a day working from home! Click here for details.""",Spam
+"""¡Gane $1000 al día trabajando desde casa! Haga clic aquí para obtener detalles.""",Spam
+"Your account has been locked. In this phishing scheme, spammers convince you that your account was suspended or limited for security-related reasons. To reactivate your account, you need to log in again using the link from the email. Then, like in other similar scams, spammers will steal your money or identity.",Spam
+"Your account has been locked. In this phishing scheme, spammers convince you that your account was suspended or limited for security-related reasons. To reactivate your account, you need to log in again using the link from the email. Then, like in other similar scams, spammers will steal your money or identity",Safe
+"""Earn $1000 a day working from home! Click here for details.""",Safe
+"""lottery""",Safe
+"money lottry
+",Safe
+"Congrats! You've won a free iPhone! Click here to claim: [link]
+",Spam
+lottery,Safe
+Lottery,Safe
+lottery,Safe
+win lottery now,Safe
+you won lottery,Safe
+"you won lottery click here
+",Safe
+happy,Safe
+lottery,Safe
+you won lottery,Safe
+You won a free lottery! Claim now!,Spam
+you won lottery,Spam
+lottery,Spam
+you,Safe
+you won the game,Safe
+won lottery,Spam
+,Safe
+,Safe
+"hello
+",Safe
+"hey bro
+",Safe
